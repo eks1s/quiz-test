@@ -1,6 +1,6 @@
 import { createRoot } from "react-dom/client";
 import { ChakraProvider } from "@chakra-ui/react";
-import QuizComponent from "./App.tsx";
+import QuizComponent from "./QuizComponent";
 
 createRoot(document.getElementById("root")!).render(
   <ChakraProvider>

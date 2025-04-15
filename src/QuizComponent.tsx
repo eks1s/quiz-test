@@ -229,7 +229,6 @@ const QuizComponent = () => {
                 backgroundColor="#73C371"
                 color="#F5F5F7"
                 width="100%"
-                maxWidth="300px"
                 textTransform="uppercase"
               >
                 {option}
